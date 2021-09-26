@@ -1,1 +1,1 @@
-
+This is a small project that was just for learning experience. At the moment, I'm trying to move from project to project to add some depth to my GitHub. There could be a million features and error handlers added, but I couldn't be bothered.
